@@ -1,1 +1,1 @@
-# alx-system_engineering-devops
+Repo to learn the basics of shell
